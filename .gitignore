@@ -1,6 +1,8 @@
 /wp-admin/
 /wp-includes/
-/wp-content/uploads/
 /wp-content/cache/
-/wp-config.php
+node_modules/
+vendor/
 .env
+*.log
+.DS_Store
